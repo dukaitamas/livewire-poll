@@ -36,8 +36,10 @@
 
 <body class="container mx-auto mt-10 mb-10 max-w-lg">
   {{-- @livewireScripts //////this does not work in http://127.0.0.1:8000 page F12 network -all
-  need to use the correct HTML syntax! --}}
+  need to use the correct HTML syntax! it would turn some js scripts --}}
   <livewire:scripts />
+
+    @livewire('create-poll')
 </body>
 
 </html>
