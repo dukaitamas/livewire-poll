@@ -1,3 +1,5 @@
+There are plethora of green comments in the codes....the comments are for me this is how i study: write,read and recognize.<br>
+<hr>
 start it in terminal: php artisan serve <br>
 https://laravel-livewire.com <br>
 green commented this in app.blade.php : <br>
@@ -6,6 +8,7 @@ use this in the bottom of the: body section <livewire:scripts /> instead of @liv
 {{-- @livewireScripts //////this does not work in http://127.0.0.1:8000 page F12 network -all
   need to use the correct HTML syntax! it would turn some js scripts --}} <br>
 create-poll.php use  input type="text" wire:model.live="title" instead of input type="text" wire:model="title"
+<hr>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
