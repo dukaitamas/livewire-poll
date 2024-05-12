@@ -39,14 +39,14 @@
   need to use the correct HTML syntax! it would turn some js scripts --}}
   <livewire:scripts />
 
-    @livewire('create-poll')
+    {{-- @livewire('create-poll') --}}
 
     <div>
         <h2 class="mb-4 mt-4 text-2xl">Create Poll</h2>
         @livewire('create-poll')
 </div>
 <div>
-    <h2>Available Polls</h2>
+    <h2 class="mb-4 mt-4 text-2xl">Available Polls</h2>
     @livewire('create-poll')
 </div>
 </body>
