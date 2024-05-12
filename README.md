@@ -1,8 +1,8 @@
 There are plethora of green comments in the codes....the comments are for me this is how i study: write,read and recognize.<br>
 <hr>
 laravel version v10 and livewire v3 for faking frontend js
-<hr>
-<hr classs="red">
+
+<hr style="height: 5px;background: teal;margin: 20px 0;box-shadow: 0px 0px 4px 2px rgba(204,204,204,1);">
 start it in terminal: php artisan serve <br>
 https://laravel-livewire.com <br>
 green commented this in app.blade.php : <br>
