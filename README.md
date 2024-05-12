@@ -5,7 +5,7 @@ green commented this in app.blade.php :
     need to use the correct HTML syntax! --}}
     use this in the bottom of the:  <head>
     <livewire:styles />
-    </head
+    </head>
     
     {{-- @livewireScripts //////this does not work in http://127.0.0.1:8000 page F12 network -all
   need to use the correct HTML syntax! it would turn some js scripts --}}
