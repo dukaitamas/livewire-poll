@@ -3,7 +3,7 @@ https://laravel-livewire.com
 green commented this in app.blade.php :
 use this in the bottom of the: head section  <livewire:styles /> instead of  @livewireStyles
 use this in the bottom of the: body section <livewire:scripts /> instead of @liveweireScripts
-create-poll.php use  <input type="text" wire:model.live="title"> instead of <input type="text" wire:model="title"> 
+create-poll.php use  input type="text" wire:model.live="title" instead of input type="text" wire:model="title"
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
