@@ -1,8 +1,8 @@
-start it in terminal: php artisan serve
-https://laravel-livewire.com
-green commented this in app.blade.php :
-use this in the bottom of the: head section  <livewire:styles /> instead of  @livewireStyles
-use this in the bottom of the: body section <livewire:scripts /> instead of @liveweireScripts
+start it in terminal: php artisan serve <br>
+https://laravel-livewire.com <br>
+green commented this in app.blade.php : <br>
+use this in the bottom of the: head section  <livewire:styles /> instead of  @livewireStyles <br>
+use this in the bottom of the: body section <livewire:scripts /> instead of @liveweireScripts <br>
 create-poll.php use  input type="text" wire:model.live="title" instead of input type="text" wire:model="title"
 
 
