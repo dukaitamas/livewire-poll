@@ -3,6 +3,8 @@ https://laravel-livewire.com <br>
 green commented this in app.blade.php : <br>
 use this in the bottom of the: head section  <livewire:styles /> instead of  @livewireStyles <br>
 use this in the bottom of the: body section <livewire:scripts /> instead of @liveweireScripts <br>
+{{-- @livewireScripts //////this does not work in http://127.0.0.1:8000 page F12 network -all
+  need to use the correct HTML syntax! it would turn some js scripts --}} <br>
 create-poll.php use  input type="text" wire:model.live="title" instead of input type="text" wire:model="title"
 
 
